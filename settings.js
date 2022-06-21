@@ -22,27 +22,27 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['62881022864785','6285320499721','6282115086091'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['62881022864785'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '62881022864785' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Zii' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Zii-BotZ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Zii' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
+global.ig = 'https://instagram.com/ziistore_id'
+global.mygc = 'https://chat.whatsapp.com/BRUbgc97gWw4zGDH5eeteo'
 global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
+global.email = 'kamardepan123@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© Zii-BotZ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Zii' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -58,7 +58,7 @@ free: 15,
 //—————「 Set Image 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
 global.thumb = fs.readFileSync('./image/chika.jpg')
-/*global.veloriy = fs.readFileSync('./image/chika.mp4')*/
+/global.veloriy = fs.readFileSync('./image/chika.mp4')/
 
 //—————「 Set Image Welcome 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
@@ -82,16 +82,16 @@ global.sp = '⭔'
 //—————「 Set Message 」—————//
 //terserah mau ubah apa nggak, note : tanda ' gausah di hapus!
 global.mess = {
-success: '_Done._',
-admin: '_Fitur Khusus Admin Group!_',
-botAdmin: '_Bot Harus Menjadi Admin Terlebih Dahulu!_',
-owner: '_Fitur Khusus Owner Bot_',
-group: '_Fitur Digunakan Hanya Untuk Group!_',
-private: '_Fitur Digunakan Hanya Untuk Private Chat!_',
-bot: '_Fitur Khusus Pengguna Nomor Bot_',
-wait: '_Sedang Di Proses..._',
-error: '_Fitur Sedang Error!_',
-endLimit: '_Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12_',
+success: 'Done.',
+admin: 'Fitur Khusus Admin Group!',
+botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
+owner: 'Fitur Khusus Owner Bot',
+group: 'Fitur Digunakan Hanya Untuk Group!',
+private: 'Fitur Digunakan Hanya Untuk Private Chat!',
+bot: 'Fitur Khusus Pengguna Nomor Bot',
+wait: 'Sedang Di Proses...',
+error: 'Fitur Sedang Error!',
+endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 
 //—————「 Batas Akhir 」—————//
